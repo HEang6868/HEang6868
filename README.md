@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a 3D animator interested in shifting into tool development.
+
 <!--
 **HEang6868/HEang6868** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
