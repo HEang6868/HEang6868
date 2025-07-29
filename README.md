@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a 3D animator who's worked in film and streaming for 6 years. I'm interested in shifting into pipeline, animation, and rigging tool development and am currently studying technical animation.
+I am a technical artist with 6 years of animation industry experience. I'm interested in developing tools for animation pipelines and doing work with more technical focus.
 
 <!--
 **HEang6868/HEang6868** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
