@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a technical artist with 6 years of animation industry experience. I'm interested in developing tools for animation pipelines and doing work with more technical focus.
+I am a technical artist with 6 years of animation industry experience. I'm interested in developing tools for animation pipelines and doing work with a more technical focus.
 
 <!--
 **HEang6868/HEang6868** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
